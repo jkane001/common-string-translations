@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="cs_ok">"OK"</string>
+<string name="cs_cancel">"Cancel"</string>
+<string name="cs_yes">"Yes"</string>
+<string name="cs_no">"No"</string>
+<string name="cs_not_now">"Not Now"</string>
+<string name="cs_later">"Later"</string>
+<string name="cs_trial">"Trial"</string>
+<string name="cs_subscription">"Subscription"</string>
+<string name="cs_free_trial">"Free Trial"</string>
+<string name="cs_monthly_subscription">"Monthly Subscription"</string>
+<string name="cs_annual_subscription">"Annual Subscription"</string>
+<string name="cs_premium">"Premium"</string>
+<string name="cs_free">"Free"</string>
+<string name="cs_go">"Go"</string>
+<string name="cs_save">"Save"</string>
+<string name="cs_about_app">"About %s"</string>
+<string name="cs_clear">"Clear"</string>
+</resources>
