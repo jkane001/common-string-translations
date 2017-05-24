@@ -15,5 +15,6 @@
 <string name="cs_free">"Free"</string>
 <string name="cs_go">"Go"</string>
 <string name="cs_save">"Save"</string>
+<string name="cs_clear">"Clear"</string>
 <string name="cs_about_app">"About %s"</string>
 </resources>
